@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>war_bg.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{640,480}</string>
+                <key>spriteSourceSize</key>
+                <string>{640,480}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{640,480}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>game.png</string>
+            <key>size</key>
+            <string>{640,480}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:08d478e2cf97229249811150073234a6:101415a60d5087ede2bf58b4a42f54bf:b2cae276934292945ac49b6ea6cfb4fe$</string>
+            <key>textureFileName</key>
+            <string>game.png</string>
+        </dict>
+    </dict>
+</plist>
