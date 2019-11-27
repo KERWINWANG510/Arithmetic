@@ -46,6 +46,7 @@ cc.Class({
             let progress = this.loadProgressBar(dt);
             if(1 <= progress){
                 this.isStart = false;
+                cc.director.loadScene("game");
             }
             
         }
